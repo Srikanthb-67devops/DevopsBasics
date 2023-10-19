@@ -5,9 +5,9 @@
  
 </head>
 <style>
-<body>
+body
 {
-background-color:green;
+background-color: pink;
 }
 </style>
 </head>
