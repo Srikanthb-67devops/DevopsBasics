@@ -7,7 +7,7 @@
 <style>
 body
 {
-background-color: pink;
+background-color: cyan;
 }
 </style>
 </head>
